@@ -1,5 +1,3 @@
-
-
 var GHPATH = "/ICS2O-Assignment6/";
 var APP_PREFIX = "gppwa_";
 var VERSION = "version_001";
